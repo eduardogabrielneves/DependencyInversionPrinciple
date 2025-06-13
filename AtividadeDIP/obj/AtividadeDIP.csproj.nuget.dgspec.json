@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduardo_g_neves\\source\\repos\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj": {}
+    "C:\\Users\\eduardo_g_neves\\source\\repos\\AtividadeDIP\\AtividadeDIP\\AtividadeDIP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduardo_g_neves\\source\\repos\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj": {
+    "C:\\Users\\eduardo_g_neves\\source\\repos\\AtividadeDIP\\AtividadeDIP\\AtividadeDIP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduardo_g_neves\\source\\repos\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
-        "projectName": "DependencyInversionPrinciple",
-        "projectPath": "C:\\Users\\eduardo_g_neves\\source\\repos\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\eduardo_g_neves\\source\\repos\\AtividadeDIP\\AtividadeDIP\\AtividadeDIP.csproj",
+        "projectName": "AtividadeDIP",
+        "projectPath": "C:\\Users\\eduardo_g_neves\\source\\repos\\AtividadeDIP\\AtividadeDIP\\AtividadeDIP.csproj",
         "packagesPath": "C:\\Users\\eduardo_g_neves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduardo_g_neves\\source\\repos\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\obj\\",
+        "outputPath": "C:\\Users\\eduardo_g_neves\\source\\repos\\AtividadeDIP\\AtividadeDIP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

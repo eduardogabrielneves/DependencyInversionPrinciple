@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DependencyInversionPrinciple")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeDIP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("DependencyInversionPrinciple")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DependencyInversionPrinciple")]
+[assembly: System.Reflection.AssemblyProductAttribute("AtividadeDIP")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AtividadeDIP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
